@@ -6,3 +6,6 @@
 * Doküman oluşturma(docstring),
 * Genelleştirilmiş fonksiyonlar uygulanmıştır.
 
+# KAYNAK:
+
+https://bootcamp.veribilimiokulu.com/egitim/veri-bilimci-yetistirme-programi/
